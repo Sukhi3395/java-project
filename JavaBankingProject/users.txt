@@ -1,0 +1,6 @@
+1234,surjjj dsdss,sdsds,200.0,23
+123456,snopp dogg,kbc,1000.0,28
+1111,suraj devgan,savings,400.0,23
+3345,dwdw wew,savings,50000.0,45
+45445,suraj ssdsd,savings,600.0,56
+3434,343 434545,4545,45.0,45
